@@ -1,4 +1,4 @@
 google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
-gameadzone.com, 2007, DIRECT
+gameadzone.com, 1844, DIRECT
 
 google.com, pub-1979986443397150, DIRECT, f08c47fec0942fa0
